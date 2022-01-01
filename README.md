@@ -27,5 +27,5 @@ pip install wget
 ## Using Wombat-image
 The application does not require any special inputs. Simply running it will download the scraped images into the file directory. 
 
-#Future Scope
+##Future Scope
 As of now, the project is hardcoded to search for wombat images. I believe in the future it can be modified or optimized to take the search key word from the user and then scrape the website based on the query made by the user.

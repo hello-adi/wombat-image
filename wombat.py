@@ -1,6 +1,5 @@
 #Wombat search
-#Assignment 4
-#Part C
+
 
 #Imports 
 import time
